@@ -1,0 +1,30 @@
+_repo: I-marginalen_26347
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Homén, Olaf
+    aliases:
+    - Homén, Lars Olaf
+    - Homen, Olaf
+    birthdate: 1879
+    deathdate: 1949
+    gutenberg_agent_id: '31931'
+    url: http://www.gutenberg.org/2009/agents/31931
+description: ''
+gutenberg_issued: '2008-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26347'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Literature, Modern -- 20th century'
+- !lcsh 'Literature, Modern -- 19th century'
+title: I marginalen
+url: http://www.gutenberg.org/ebooks/26347
